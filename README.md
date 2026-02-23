@@ -10,4 +10,4 @@ A simple and stylish registration page I built for college fests.
 * Just HTML & CSS!
 
 🔗 Live Preview
-Experience the registration flow here: [Live Link](your-link-here)
+Experience the registration flow here: [Live Link]( https://sujithavm.github.io/college-event-register/)
